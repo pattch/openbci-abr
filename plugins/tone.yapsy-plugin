@@ -1,0 +1,9 @@
+
+[Core]
+Name = tone
+Module = tone
+
+[Documentation]
+Author = Samuel Sampson
+Version = 0.1
+Description = Play tones to user, record their EEG data and automatically label it
